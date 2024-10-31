@@ -13,8 +13,6 @@
 
 - I like instrumental music, thriller and mystery books and movies, collecting keychains
 
-- 📫 How to reach me: **ashuthoshmaheshdubey@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
