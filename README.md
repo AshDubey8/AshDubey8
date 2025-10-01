@@ -20,4 +20,4 @@ Currently a Technical Writer Intern at Hiver, and exploring open-source contribu
 ### Find Me
 - [Portfolio](https://ashdubey.is-a.dev)  
 - [LinkedIn](https://linkedin.com/in/ashuthosh-dubey)  
-- [GitHub](https://github.com/AshDubey8)  
+- [Dev](https://dev.to/ashuthosh_dubey)
