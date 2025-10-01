@@ -1,22 +1,23 @@
+# Hi, I'm Ashuthosh Dubey
 
-# Hi, I'm Ashuthosh
+I'm a Computer Science undergrad with experience in technical writing and developer documentation.  
+Currently a Technical Writer Intern at Hiver, and exploring open-source contributions through Hacktoberfest 2025.  
 
-Backend developer focused on building REST APIs and web applications with Node.js and TypeScript.
+### What I Work On
+- Writing technical documentation and tutorials  
+- Building web apps with Node.js, Express, PostgreSQL, and JavaScript  
+- Improving developer onboarding experiences  
 
-## Tech Stack
-**Backend:** Node.js, Express.js, TypeScript, REST APIs  
-**Databases:** PostgreSQL, SQL  
-**Tools:** Git, Docker, Postman
+### Projects
+- [AudioCast](https://github.com/AshDubey8/audiocast) – Transcript management web app with secure file uploads and parameterized queries
+- [Locale](https://github.com/AshDubey8/locale) – Full-stack event discovery app with rate limiting and secure API key management  
+- [The Most Basic AI Chatbot ever](https://github.com/AshDubey8/the-most-basic-ai-chatbot-ever) - Minimal Streamlit chatbot connecting to Groq's LLM API with session-based chat history
 
-## What I'm Working On
-- Building full-stack applications with Node.js/Express backends
-- Optimizing API performance and database queries
-- Learning system design and microservices architecture
+### Current Focus
+- Contributing documentation and onboarding guides to open-source projects (Hacktoberfest 2025)  
+- Learning best practices for developer experience and community contribution  
 
-## Recent Experience
-Worked with engineering teams to test and document APIs, create implementation guides, and improve developer experience through clear technical documentation.
-
-## Connect
-- Portfolio: [ashdubey.is-a.dev](https://ashdubey.is-a.dev/)
-- LinkedIn: [ashuthosh-dubey](https://linkedin.com/in/ashuthosh-dubey)
-- Email: ashuthoshmaheshdubey@gmail.com
+### Find Me
+- [Portfolio](https://ashdubey.is-a.dev)  
+- [LinkedIn](https://linkedin.com/in/ashuthosh-dubey)  
+- [GitHub](https://github.com/AshDubey8)  
